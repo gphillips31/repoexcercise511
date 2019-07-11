@@ -9,12 +9,12 @@ Google partners with the city of Toronto to build the first true SmartCity
 from the ground up, including a heavy investment in Cross-Laminated Timber
 (CLT) buildngs.
 
-**"For example, on the housing front, a collection of new mixed-use buildings, 
-up to 30 stories tall, would be built at a cost of $3.9 billion, using mass 
-timber and modular components constructed at a local factory owned by Sidewalk 
-Labs. The high-rises would add thousands of units to Toronto’s housing 
-stock—40 percent of them affordable, Sidewalk says—and 35 percent faster than 
-normal construction time."**
+>>"For example, on the housing front, a collection of new mixed-use buildings, 
+>>up to 30 stories tall, would be built at a cost of $3.9 billion, using mass 
+>>timber and modular components constructed at a local factory owned by Sidewalk 
+>>Labs. The high-rises would add thousands of units to Toronto’s housing 
+>>stock—40 percent of them affordable, Sidewalk says—and 35 percent faster than 
+>>normal construction time."
 
 * [Cross-Laminated Timber Overview](https://www.apawood.org/cross-laminated-timber)
 * [Smart sensors for better mobility data](https://www.digitaltrends.com/home/cities-looking-become-smart-need-look-beyond-adding-sensors/)
